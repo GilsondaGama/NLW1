@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/logo.svg" alt="Ecoleta" width="500">
+  <img src="https://img.shields.io/github/logo.svg" alt="Ecoleta" width="500">
 </h1>
 
 <p align="center">
