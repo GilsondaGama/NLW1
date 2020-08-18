@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./frontend/src/assets/logo.svg" alt="Ecoleta" width="500">
+  <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/logo.svg" alt="Ecoleta" width="500">
 </h1>
 
 <p align="center">
@@ -41,11 +41,9 @@
 
 <br/>
 
-## 🚀 Next Level Week Booster 1
+## 🚀 Next Level Week 1 - Ecoleta
 
 The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.
-
-This is version **Booster** of NLW, to check the version **Starter**, access the repository **<a href="https://github.com/GilsondaGama/NLW1-Ecoleta">here</a>**.
 
 **🎓  Instructor: [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)**<br>
 **✍🏼  Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
@@ -60,16 +58,16 @@ Taking into account that we are at the international week of the environment, we
 
 <br>
 Click to expand.
-<div align="center">
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/01.png" width="10%"/>
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/02.gif" width="10%"/>
-
+<h1 align="center">
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/01.png" width="20%"/>
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/02.gif" width="20%"/>
+</h1>
 <br>
-<div align="center">
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/03.png" width="10%"/>
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/04.png" width="10%"/>  
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/05.png" width="10%"/>  
-</div>
+<h1 align="center">
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/03.png" width="20%"/>
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/04.png" width="20%"/>  
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/05.png" width="20%"/>  
+</h1>
 
 ## 🤖 Back-End
 The Back-End was developed with Node.js and TypeScript, in API Rest format.
