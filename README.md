@@ -107,7 +107,7 @@ Clone the project: `git clone https://github.com/GilsondaGama/NLW1-Ecoleta`
 
 ````zsh
 # to enter the Back-End folder
-$ cd backend
+$ cd server
 
 # to download the dependencies
 $ yarn
@@ -120,7 +120,7 @@ $ yarn dev
 
 ````zsh
 # to enter the Front-End folder
-$ cd frontend
+$ cd web
 
 # to download the dependencies
 $ yarn
