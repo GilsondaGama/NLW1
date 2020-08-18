@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import Knex from 'knex';
 
 export async function seed(knex: Knex) {
