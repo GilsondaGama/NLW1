@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://img.shields.io/github/logo.svg" alt="Ecoleta" width="500">
+  <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/logo.svg" alt="Ecoleta" width="500">
 </h1>
 
 <p align="center">
@@ -50,25 +50,23 @@ The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace 
 **✍🏼  Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
 
 
-## ♻️ The Project:
-
-Taking into account that we are at the international week of the environment, we developed a project totally focused on ecological purposes. Thus was born **Ecoleta**, which serves as a Marketplace that connects companies or some other entity that collects organic or inorganic waste, to people who need to dispose of these materials.
-
-![Home site](https://user-images.githubusercontent.com/34657005/83935903-63d31e00-a794-11ea-8627-915c42ec5811.png)
-![gif](https://user-images.githubusercontent.com/34657005/83936080-2c657100-a796-11ea-9555-3c3435e72c9b.gif)
-
 <br>
 Click to expand.
-<div align="center">
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/01.png" width="10%"/>
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/02.gif" width="10%"/>
 
+<h1 align="center">
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/screenshots/01.png?raw=true" width="70%"/>
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/screenshots/02.gif?raw=true" width="70%"/>  
+</h1>
 <br>
-<div align="center">
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/03.png" width="10%"/>
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/04.png" width="10%"/>  
-    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.github/screenshots/05.png" width="10%"/>  
-</div>
+<h1 align="center">
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/screenshots/03.png?raw=true" width="15%"/>
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/screenshots/04.png?raw=true" width="15%"/>
+    <img src="https://github.com/GilsondaGama/NLW1-Ecoleta/blob/master/.gitHub/screenshots/05.png?raw=true" width="15%"/>
+</h1>
+
+
+## ♻️ The Project:
+Taking into account that we are at the international week of the environment, we developed a project totally focused on ecological purposes. Thus was born **Ecoleta**, which serves as a Marketplace that connects companies or some other entity that collects organic or inorganic waste, to people who need to dispose of these materials.
 
 ## 🤖 Back-End
 The Back-End was developed with Node.js and TypeScript, in API Rest format.
